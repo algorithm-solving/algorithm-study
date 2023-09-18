@@ -16,8 +16,8 @@
 
 | Category                                                                                                             | Date |
 | -------------------------------------------------------------------------------------------------------------------- | ---- |
-| [**완전 탐색 (Brute-force Search)**](https://blog.naver.com/kks227/220769870195)                                     |      |
-| [**탐욕적 기법 (Greedy Algorithm)**](https://blog.naver.com/kks227/220775134486)                                     |      |
+| [**완전 탐색 (Brute-force Search)**](https://blog.naver.com/kks227/220769870195)                                     | 23.09.17 |
+| [**탐욕적 기법 (Greedy Algorithm)**](https://blog.naver.com/kks227/220775134486)                                     |  23.09.18    |
 | [**분할 정복 (Divide and Conquer)**](https://blog.naver.com/kks227/220776241154)                                     |      |
 | [**동적 계획법 (Dynamic Programming)**](https://blog.naver.com/kks227/220777103650)                                  |      |
 | [**이분 탐색 (Binary Search)**](https://blog.naver.com/kks227/220777333252)                                          |      |
