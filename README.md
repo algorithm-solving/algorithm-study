@@ -14,14 +14,15 @@
 
 ## Curriculum
 
-| Category                                                                                                             | Review Date   |
-| -------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Category                                                                                                             |  Review Date  |
+| -------------------------------------------------------------------------------------------------------------------- | :-----------: |
 | [**완전 탐색 (Brute-force Search)**](https://blog.naver.com/kks227/220769870195)                                     | 23-09-18 (월) |
 | [**탐욕적 기법 (Greedy Algorithm)**](https://blog.naver.com/kks227/220775134486)                                     | 23-09-24 (일) |
 | [**분할 정복 (Divide and Conquer)**](https://blog.naver.com/kks227/220776241154)                                     | 23-09-25 (월) |
 | [**동적 계획법 (Dynamic Programming)**](https://blog.naver.com/kks227/220777103650)                                  | 23-10-03 (화) |
 | [**이분 탐색 (Binary Search)**](https://blog.naver.com/kks227/220777333252)                                          | 23-10-09 (월) |
 | [**리스트(List), 배열(Array), 연결 리스트(Linked List)**](https://blog.naver.com/kks227/220781402507)                | 23-10-12 (목) |
+|                                                                                                                      |    _PAUSE_    |
 | [**스택 (Stack)**](https://blog.naver.com/kks227/220781557098)                                                       |               |
 | [**큐(Queue), 덱(Dequeue)**](https://blog.naver.com/kks227/220781851401)                                             |               |
 | [**깊이 우선 탐색 (Depth-First Search)**](https://blog.naver.com/kks227/220785731077)                                |               |
