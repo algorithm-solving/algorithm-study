@@ -4,9 +4,9 @@
 
 <div align="center">
   <strong>
-    <a href="https://github.com/algorithm-solving/algorithm-study#curriculum">Curriculum</a> |
-    <a href="https://github.com/algorithm-solving/algorithm-study#prerequisites">Prerequisites</a> |
-    <a href="https://github.com/algorithm-solving/algorithm-study#manual">Manual</a>
+    <a href="#curriculum">Curriculum</a> |
+    <a href="#prerequisites">Prerequisites</a> |
+    <a href="#manual">Manual</a>
   </strong>
 </div>
 
@@ -51,7 +51,7 @@
 
 ## Prerequisites
 
-이 저장소를 포크하여 [백준허브](https://github.com/BaekjoonHub/BaekjoonHub)와 연동합니다.
+이 저장소를 포크하여 [**백준허브**](https://github.com/BaekjoonHub/BaekjoonHub)와 연동합니다.
 
 <br/>
 
@@ -59,6 +59,6 @@
 
 0. 카테고리를 정합니다.
 1. 이론을 학습합니다.
-2. 추천 문제를 풉니다. (문제 난이도 및 개수에 따라 1~3일 소요)
-   - 스스로 해결하지 못한 문제는 이슈에 저장해 두었다가 3일 뒤에 다시 풀어 봅시다.
-3. 문제 풀이 완료 다음 날 오전 10시에 모여서 풀이를 공유하고 코드를 리뷰합니다.
+2. 추천 문제를 풀어 봅니다.
+   - 스스로 해결하지 못한 문제는 이슈에 저장해 두었다가 3일 뒤에 다시 풀어 보아요:sunglasses:
+3. 문제 풀이를 완료한 다음 날 오전 10시에 모여서 풀이를 공유하고 코드를 리뷰합니다.
