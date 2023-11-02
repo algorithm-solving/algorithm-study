@@ -20,9 +20,10 @@
 | [**탐욕적 기법 (Greedy Algorithm)**](https://blog.naver.com/kks227/220775134486)                                     |  09.18 ~ 09.19 |
 | [**분할 정복 (Divide and Conquer)**](https://blog.naver.com/kks227/220776241154)                                     | 09.20 ~ 09.27 |
 | [**동적 계획법 (Dynamic Programming)**](https://blog.naver.com/kks227/220777103650)                                  | 09.28 ~ 09.30 |
-| [**이분 탐색 (Binary Search)**](https://blog.naver.com/kks227/220777333252)                                          |      |
-| [**리스트(List), 배열(Array), 연결 리스트(Linked List)**](https://blog.naver.com/kks227/220781402507)                |      |
-| [**스택 (Stack)**](https://blog.naver.com/kks227/220781557098)                                                       |      |
+| [**이분 탐색 (Binary Search)**](https://blog.naver.com/kks227/220777333252)                                          | 09.30 ~ 10.03 |
+| [**리스트(List), 배열(Array), 연결 리스트(Linked List)**](https://blog.naver.com/kks227/220781402507)                | 10.03 ~ 10.05 |
+| Break               |   |
+| [**스택 (Stack)**](https://blog.naver.com/kks227/220781557098)                                                       | 11.01 ~ 11.03 |
 | [**큐(Queue), 덱(Dequeue)**](https://blog.naver.com/kks227/220781851401)                                             |      |
 | [**깊이 우선 탐색 (Depth-First Search)**](https://blog.naver.com/kks227/220785731077)                                |      |
 | [**너비 우선 탐색 (Breadth-First Search)**](https://blog.naver.com/kks227/220785747864)                              |      |
