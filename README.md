@@ -23,7 +23,7 @@
 | [**이분 탐색 (Binary Search)**](https://blog.naver.com/kks227/220777333252)                                          | 23-10-09 (월) |
 | [**리스트(List), 배열(Array), 연결 리스트(Linked List)**](https://blog.naver.com/kks227/220781402507)                | 23-10-12 (목) |
 |                                                                                                                      |    _PAUSE_    |
-| [**스택 (Stack)**](https://blog.naver.com/kks227/220781557098)                                                       |               |
+| [**스택 (Stack)**](https://blog.naver.com/kks227/220781557098)                                                       | 23-11-02 (목) |
 | [**큐(Queue), 덱(Dequeue)**](https://blog.naver.com/kks227/220781851401)                                             |               |
 | [**깊이 우선 탐색 (Depth-First Search)**](https://blog.naver.com/kks227/220785731077)                                |               |
 | [**너비 우선 탐색 (Breadth-First Search)**](https://blog.naver.com/kks227/220785747864)                              |               |
