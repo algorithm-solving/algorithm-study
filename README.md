@@ -26,7 +26,7 @@
 | [**스택 (Stack)**](https://blog.naver.com/kks227/220781557098)                                                       | 23-11-02 (목) |
 | [**큐(Queue), 덱(Dequeue)**](https://blog.naver.com/kks227/220781851401)                                             | 23-11-03 (금) |
 | [**깊이 우선 탐색 (Depth-First Search)**](https://blog.naver.com/kks227/220785731077)                                | 23-11-09 (목) |
-| [**너비 우선 탐색 (Breadth-First Search)**](https://blog.naver.com/kks227/220785747864)                              |               |
+| [**너비 우선 탐색 (Breadth-First Search)**](https://blog.naver.com/kks227/220785747864)                              | 23-11-15 (수) |
 | [**백트래킹 (Backtracking)**](https://blog.naver.com/kks227/220786417910)                                            |               |
 | [**비트마스킹 (Bit Masking)**](https://blog.naver.com/kks227/220787042377)                                           |               |
 | [**구간합 배열 (Prefix Sum)**](https://blog.naver.com/kks227/220787178657)                                           |               |
