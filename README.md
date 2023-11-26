@@ -24,10 +24,10 @@
 | [**리스트(List), 배열(Array), 연결 리스트(Linked List)**](https://blog.naver.com/kks227/220781402507)                | 10.03 ~ 10.05 |
 | Break               |   |
 | [**스택 (Stack)**](https://blog.naver.com/kks227/220781557098)                                                       | 11.01 ~ 11.03 |
-| [**큐(Queue), 덱(Dequeue)**](https://blog.naver.com/kks227/220781851401)                                             |      |
-| [**깊이 우선 탐색 (Depth-First Search)**](https://blog.naver.com/kks227/220785731077)                                |      |
-| [**너비 우선 탐색 (Breadth-First Search)**](https://blog.naver.com/kks227/220785747864)                              |      |
-| [**백트래킹 (Backtracking)**](https://blog.naver.com/kks227/220786417910)                                            |      |
+| [**큐(Queue), 덱(Dequeue)**](https://blog.naver.com/kks227/220781851401)                                             | 11.03 ~ 11.05 |
+| [**깊이 우선 탐색 (Depth-First Search)**](https://blog.naver.com/kks227/220785731077)                                | 11.05 ~ 11.09 |
+| [**너비 우선 탐색 (Breadth-First Search)**](https://blog.naver.com/kks227/220785747864)                              | 11.09 ~ 11.13 |
+| [**백트래킹 (Backtracking)**](https://blog.naver.com/kks227/220786417910)                                            | 11.13 ~ 11.26 |
 | [**비트마스킹 (Bit Masking)**](https://blog.naver.com/kks227/220787042377)                                           |      |
 | [**구간합 배열 (Prefix Sum)**](https://blog.naver.com/kks227/220787178657)                                           |      |
 | [**트리 (Tree)**](https://blog.naver.com/kks227/220788265724)                                                        |      |
