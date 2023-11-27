@@ -1,4 +1,3 @@
-
 n = int(input())
 dp = [0 for i in range(31)]  # n의 범위가 30까지
 dp[2] = 3
