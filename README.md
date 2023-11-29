@@ -28,6 +28,7 @@
 | [**깊이 우선 탐색 (Depth-First Search)**](https://blog.naver.com/kks227/220785731077)                                | 23-11-09 (목) |
 | [**너비 우선 탐색 (Breadth-First Search)**](https://blog.naver.com/kks227/220785747864)                              | 23-11-15 (수) |
 | [**백트래킹 (Backtracking)**](https://blog.naver.com/kks227/220786417910)                                            | 23-11-27 (월) |
+|                                                                                                                      |    _PAUSE_    |
 | [**비트마스킹 (Bit Masking)**](https://blog.naver.com/kks227/220787042377)                                           |               |
 | [**구간합 배열 (Prefix Sum)**](https://blog.naver.com/kks227/220787178657)                                           |               |
 | [**트리 (Tree)**](https://blog.naver.com/kks227/220788265724)                                                        |               |
