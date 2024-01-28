@@ -29,7 +29,7 @@
 | [**너비 우선 탐색 (Breadth-First Search)**](https://blog.naver.com/kks227/220785747864)                              | 23-11-15 (수) |
 | [**백트래킹 (Backtracking)**](https://blog.naver.com/kks227/220786417910)                                            | 23-11-27 (월) |
 |                                                                                                                      |    _PAUSE_    |
-| [**비트마스킹 (Bit Masking)**](https://blog.naver.com/kks227/220787042377)                                           |               |
+| [**비트마스킹 (Bit Masking)**](https://blog.naver.com/kks227/220787042377)                                           | 24-01-28 (일) |
 | [**구간합 배열 (Prefix Sum)**](https://blog.naver.com/kks227/220787178657)                                           |               |
 | [**트리 (Tree)**](https://blog.naver.com/kks227/220788265724)                                                        |               |
 | [**이진 검색 트리 (Binary Search Tree)**](https://blog.naver.com/kks227/220789373847)                                |               |
@@ -62,4 +62,4 @@
 1. 이론을 학습합니다.
 2. 추천 문제를 풀어 봅니다.
    - 스스로 해결하지 못한 문제는 이슈에 저장해 두었다가 3일 뒤에 다시 풀어 보아요:sunglasses:
-3. 문제 풀이를 완료한 다음 날 오전 10시에 모여서 풀이를 공유하고 코드를 리뷰합니다.
+3. 문제 풀이를 완료한 다음 날 모여서 풀이를 공유하고 코드를 리뷰합니다.
