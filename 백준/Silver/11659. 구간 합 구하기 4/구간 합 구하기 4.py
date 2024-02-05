@@ -4,15 +4,15 @@ input = sys.stdin.readline
 n, m = map(int, input().split())
 li = list(map(int, input().split()))
 
-frefix = [0] + [li[0]]
+prefix = [0] + [li[0]]
 
 for i in range(1, n):  # 누적합
-    frefix.append(frefix[-1] + li[i])
+    prefix.append(prefix[-1] + li[i])
 for _ in range(m):
     s, e = map(int, input().split())
     if s == 1:
-        print(frefix[e])
+        print(prefix[e])
     elif s == e:
         print(li[e - 1])
     else:
-        print(frefix[e]-frefix[s - 1])
+        print(prefix[e]-prefix[s - 1])
