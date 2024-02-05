@@ -30,7 +30,7 @@
 | [**백트래킹 (Backtracking)**](https://blog.naver.com/kks227/220786417910)                                            | 23-11-27 (월) |
 |                                                                                                                      |    _PAUSE_    |
 | [**비트마스킹 (Bit Masking)**](https://blog.naver.com/kks227/220787042377)                                           | 24-01-28 (일) |
-| [**구간합 배열 (Prefix Sum)**](https://blog.naver.com/kks227/220787178657)                                           |               |
+| [**구간합 배열 (Prefix Sum)**](https://blog.naver.com/kks227/220787178657)                                           | 24-02-05 (월) |
 | [**트리 (Tree)**](https://blog.naver.com/kks227/220788265724)                                                        |               |
 | [**이진 검색 트리 (Binary Search Tree)**](https://blog.naver.com/kks227/220789373847)                                |               |
 | [**우선순위 큐 (Priority Queue)**](https://blog.naver.com/kks227/220791188929)                                       |               |
