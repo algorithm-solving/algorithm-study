@@ -33,7 +33,7 @@
 | [**구간합 배열 (Prefix Sum)**](https://blog.naver.com/kks227/220787178657)                                           | 24-02-05 (월) |
 | [**트리 (Tree)**](https://blog.naver.com/kks227/220788265724)                                                        | 24-02-14 (수) |
 | [**이진 검색 트리 (Binary Search Tree)**](https://blog.naver.com/kks227/220789373847)                                | 24-02-16 (금) |
-| [**우선순위 큐 (Priority Queue)**](https://blog.naver.com/kks227/220791188929)                                       |               |
+| [**우선순위 큐 (Priority Queue)**](https://blog.naver.com/kks227/220791188929)                                       | 24-02-20 (화) |
 | [**유니온 파인드 (Union-Find)**](https://blog.naver.com/kks227/220791837179)                                         |               |
 | [**세그먼트 트리 (Segment Tree)**](https://blog.naver.com/kks227/220791986409)                                       |               |
 | [**동적 계획법 2 (Dynamic Programming 2)**](https://blog.naver.com/kks227/220793134705)                              |               |
